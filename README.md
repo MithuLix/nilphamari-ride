@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+## About this App
+An App creates for the Nilphamari area ride-sharing service.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here, it's providing 4 types of vehicles, you can choose according to your needs.
+
+Users can integrate with basic login, Google, Facebook, Github login methods if they wish to share a ride.
+
+The most commonly used vehicle service is Bike.
+
+We have a few details about Bangladesh ride-sharing services with this.
+
+You can send your complaints on the contact us page.
+
+Our dream is beyond to launch the Android version.
+
+It still developing..Use more to reduce get the vehicle in tradition way..
+
+
 
 ## Available Scripts
 
