@@ -8,7 +8,7 @@ import icon3 from "../images/fi-xnsuxl-github.svg";
 // firebase imported files
 import "firebase/auth";
 import firebase from "firebase/app";
-import firebaseConfig from "../FirebaseManager/firebase.config";
+import firebaseConfig from "./firebase.config";
 import { userContext } from "../../App";
 if(firebase.apps.length === 0){ firebase.initializeApp(firebaseConfig);}
 

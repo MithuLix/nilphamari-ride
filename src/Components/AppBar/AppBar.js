@@ -11,7 +11,7 @@ import './AppBar.css';
 // firebase imported files
 import "firebase/auth";
 import firebase from "firebase/app";
-import firebaseConfig from "../FirebaseManager/firebase.config";
+import firebaseConfig from "../Login/firebase.config";
 if(firebase.apps.length === 0){ firebase.initializeApp(firebaseConfig);}
 
 
